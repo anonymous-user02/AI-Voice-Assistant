@@ -43,3 +43,5 @@ while True:
 
     engine.say(response_str)
     engine.runAndWait()
+
+    # tesing
